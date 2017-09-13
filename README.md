@@ -1,2 +1,3 @@
 # hello-world
 my first repository
+Eu suunt cel care scrie aici... doar un incepator....
